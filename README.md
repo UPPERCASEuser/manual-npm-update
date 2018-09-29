@@ -1,2 +1,2 @@
 # manual-npm-update
-manual npm update
+Welcome to Manual `npm` update!
